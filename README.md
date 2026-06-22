@@ -51,18 +51,18 @@ Dataset features are converted into a Pandas DataFrame for easier analysis.
 
 # 4. Data Analysis
 
-Check dataset shape
-Check missing values
-Check duplicate records
-Generate statistical summary
-View sample records
+* Check dataset shape
+* Check missing values
+* Check duplicate records
+* Generate statistical summary
+* View sample records
 
 # 5. Data Splitting
 
 Dataset is split into:
 
-Training Data (80%)
-Testing Data (20%)
+* Training Data (80%)
+* Testing Data (20%)
 
 # 6. Model Training
 
@@ -76,24 +76,24 @@ The trained model predicts cancer diagnosis on unseen test data.
 
 Performance is evaluated using:
 
-Accuracy Score
-Confusion Matrix
-Classification Report
+* Accuracy Score
+* Confusion Matrix
+* Classification Report
 
 # 9. Visualization
 
-Heatmap of Confusion Matrix
-Pie Chart Visualization
+* Heatmap of Confusion Matrix
+* Pie Chart Visualization
 
 # Evaluation Metrics
 
 The model performance is measured using:
 
-Accuracy Score
-Precision
-Recall
-F1-Score
-Confusion Matrix
+* Accuracy Score
+* Precision
+* Recall
+* F1-Score
+* Confusion Matrix
 
 ## Visualizations
 
@@ -113,14 +113,14 @@ Shows classification distribution from the confusion matrix.
 
 ## How to Run
 
-Clone this repository
-git clone https://github.com/yourusername/Cancer-Prediction-Using-Decision-Tree.git
-Install required libraries
-pip install pandas numpy scikit-learn matplotlib seaborn
-Open Jupyter Notebook
-jupyter notebook
-Run the notebook
-Cancer_Prediction_using_Decision_Tree.ipynb
+* Clone this repository
+* git clone https://github.com/priyayoga-dotcom/Cancer-Prediction-Using-Decision-Tree.git
+* Install required libraries
+* pip install pandas numpy scikit-learn matplotlib seaborn
+* Open Jupyter Notebook
+* jupyter notebook
+* Run the notebook
+* Cancer_Prediction_using_Decision_Tree.ipynb
 
 ## Project Outcome
 
